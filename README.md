@@ -25,3 +25,7 @@ Os problemas podem ser de vários níveis e escopos, o que importa é que seja c
 
 - O site [DojoPuzzles](http://dojopuzzles.com/) tem vários exemplos de problemas para ser usado em dojos
 - O site [SPOJ](https://br.spoj.com/) também possui uma enorme lista de problemas que podem ser usados
+
+## Considerações
+
+- Se o número de participantes for muito elevado, pode ser interessante dividir em grupos e fazer dojos simultâneos, e no final todos fariam considerações do que conseguiram fazer e discutiriam soluções
