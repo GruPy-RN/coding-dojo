@@ -18,3 +18,10 @@ O dojo possui etapas, e nelas sempre duas pessoas estarão com o foco no código
 - Durante o tempo *inativo*, todos devem discutir como está a solução e planejar novas ações.
 
 ![codingdojoflow](./images/codingdojoflow.png)
+
+## Quais são os problemas?
+
+Os problemas podem ser de vários níveis e escopos, o que importa é que seja compatível com os participantes e a experiência deles.
+
+- O site [DojoPuzzles](http://dojopuzzles.com/) tem vários exemplos de problemas para ser usado em dojos
+- O site [SPOJ](https://br.spoj.com/) também possui uma enorme lista de problemas que podem ser usados
