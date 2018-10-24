@@ -16,3 +16,5 @@ O dojo possui etapas, e nelas sempre duas pessoas estarão com o foco no código
 - O tempo ativo por padrão dura 5 minutos, porém os participantes podem escolher um tempo diferente antes do início do dojo
 - Após o fim dos 5 minutos, o piloto vai para a platéia, o co-piloto assume o papel de piloto e um voluntário da platéia assume o papel de co-piloto.
 - Durante o tempo *inativo*, todos devem discutir como está a solução e planejar novas ações.
+
+![codingdojoflow](./images/codingdojoflow.png)
