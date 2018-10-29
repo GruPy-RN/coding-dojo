@@ -21,10 +21,42 @@ O dojo possui etapas, e nelas sempre duas pessoas estarão com o foco no código
 
 ## Quais são os problemas?
 
-Os problemas podem ser de vários níveis e escopos, o que importa é que seja compatível com os participantes e a experiência deles.
+Os problemas podem ser de vários níveis e escopos, o que importa é que seja compatível com os participantes e a experiência deles. Abaixo estão alguns sites recheados de problemas que podem ser usados nos nossos dojos
 
-- O site [DojoPuzzles](http://dojopuzzles.com/) tem vários exemplos de problemas para ser usado em dojos
-- O site [SPOJ](https://br.spoj.com/) também possui uma enorme lista de problemas que podem ser usados
+- [DojoPuzzles](http://dojopuzzles.com/)
+- [SPOJ](https://br.spoj.com/)
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt)
+
+Algumas sugestões de problemas
+
+- Iniciantes no Python
+    - Calculadora aritmética simples (Operações de IO e matemáticas com Python)
+    - [Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
+    - [Tipos de triângulo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045)
+    - [Conjectura de Collatz](http://dojopuzzles.com/problemas/exibe/analisando-a-conjectura-de-collatz)
+    - [FizzBuzz](http://dojopuzzles.com/problemas/exibe/fizzbuzz/)
+    - [Escrevendo no celular](http://dojopuzzles.com/problemas/exibe/escrevendo-no-celular/)
+    - [Geração de fatores primos](http://dojopuzzles.com/problemas/exibe/geracao-de-fatores-primos/)
+    - [Pedra-Papel-Tesoura-Lagarto-Spock](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873)
+    - [Sequência espelho](https://www.urionlinejudge.com.br/judge/pt/problems/view/2157)
+    - [Números felizes](http://dojopuzzles.com/problemas/exibe/numeros-felizes/)
+    - [Numeros romanos](http://dojopuzzles.com/problemas/exibe/numeros-romanos/)
+    - [Palavras primas](http://dojopuzzles.com/problemas/exibe/palavras-primas/)
+    - [Partida de tênis](http://dojopuzzles.com/problemas/exibe/partida-de-tenis/)
+
+- Quem já manja dos paranauê
+    - [Análise de URLs](http://dojopuzzles.com/problemas/exibe/analisando-urls/)
+    - [Intersecção de segmentos de reta](http://dojopuzzles.com/problemas/exibe/interseccao-de-segmentos-de-reta/)
+    - [Identificando PAs](http://dojopuzzles.com/problemas/exibe/identificando-progressoes-aritmeticas/)
+    - [Balanço de parênteses](https://www.urionlinejudge.com.br/judge/pt/problems/view/1068)
+    - [Ida a feira](https://www.urionlinejudge.com.br/judge/pt/problems/view/1281)
+    - [Jogando cartas fora](https://www.urionlinejudge.com.br/judge/pt/problems/view/1110)
+    - [Parafusos e porcas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1520)
+    - [Número de Erdos](http://dojopuzzles.com/problemas/exibe/numero-de-erdos/)
+    - [Chefe](https://www.urionlinejudge.com.br/judge/pt/problems/view/1469)
+    - [Nuvem de cinzas](http://dojopuzzles.com/problemas/exibe/nuvem-de-cinzas/)
+
+
 
 ## Considerações
 
