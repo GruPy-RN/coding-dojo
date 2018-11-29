@@ -1,0 +1,5 @@
+Open-bar de hello world
+
+Em toda linguagem de programação, o primeiro contato é chamado hello world, em Python isso não é diferente e é MUITO SIMPLES, basta escrever `print("Hello world!")` e tá feito!
+
+Para este dojo, nosso objetivo é criar um programa que imprima para o usuário o número de hello worlds que ele desejar.
