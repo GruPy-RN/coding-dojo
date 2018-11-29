@@ -1,0 +1,14 @@
+Longest Collatz sequence (adaptado de https://projecteuler.net/index.php?section=problems&id=14)
+
+A sequência de Collatz é definida por:
+
+n / 2, se n é par
+3*n + 1, se n é impar
+
+Usando essas regras, e começando com 13, temos a seguinte sequência:
+13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
+
+Podemos ver que esta sequencia, começando em 13 e terminando em 1 possui 10 termos.
+Apesar de não ter sido provado ainda, imagina-se que para todos os números que começarem a sequencia, ela chegará em 1.
+
+O problema é, dado um numero inteiro K, qual o inteiro menor ou igual a K que produz a maior sequencia de collatz e qual o tamanho dessa sequencia?
