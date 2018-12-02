@@ -1,11 +1,1 @@
-Database of Clients (retirado de https://www.urionlinejudge.com.br/judge/pt/problems/view/2906)
-
-Atualmente, existem bilhões de usuários de email. Um fato pouco conhecido é que alguns provedores de e-mail oferecem muito mais do que o endereço de e-mail usual username@provider.com.
-Alguns provedores simplesmente ignoram pontos em nomes de usuários. Assim, se John possui o nome de usuário johnsmith, ele poderia dizer às pessoas que seu endereço de e-mail é johnsmith@provider.com, john.smith@provider.com ou john.s.mith@provider.com, entre outros. Os e-mails enviados para qualquer um desses endereços terminariam em sua caixa de correio.
-Outros provedores permitem anexar o caractere “+” seguido por qualquer combinação de letras e/ou dígitos após o nome de usuário. Com esse recurso, registrando o nome de usuário johnsmith, John também poderia usar johnsmith+friends@provider.com e johnsmith+2x3is6@provider.com
-Às vezes, ambos os recursos estão disponíveis ao mesmo tempo e, nesses casos, john.smith+icpc@provider.com e john.smith+wants.2.eat.lemon.3.14@provider.com são endereços válidos que John poderia usar.
-Isso é bastante útil para os usuários, que podem gerenciar diferentes endereços para ajudar a organizar suas caixas de correio e filtrar facilmente os boletins informativos eventualmente enviados após o registro em um novo site. Infelizmente, isso também abre espaço para o abuso. Alguns sites confiam no fato de que cada endereço de e-mail identifica um único usuário. No entanto, um usuário mal-intencionado pode facilmente criar várias contas tirando proveito dos vários endereços permitidos pelo provedor de e-mail.
-Depois de aprender tudo isso, seu chefe ficou muito preocupado. E se o número de usuários únicos que foi relatado aos acionistas não for preciso, em vez disso, inchado por contas duplicadas? Isso leva você à tarefa em questão: dada a lista de todos os endereços de e-mail do banco de dados de usuários da empresa, você deve determinar o número real de usuários únicos, supondo que todos os provedores de e-mail tenham ambos os recursos descritos disponíveis.
-
-
-Leia de um numero inteiro N que indica a quantidade de emails na base de dados e em seguida leia N linhas, cada uma com um email. Imprima o número de usuários únicos cadastrados na base de dados.
+pessoas = 21
